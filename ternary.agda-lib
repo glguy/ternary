@@ -1,0 +1,7 @@
+name: ternary-1.0
+include: src
+flags:
+  -Wall
+  --safe
+depend:
+  standard-library-2.0
